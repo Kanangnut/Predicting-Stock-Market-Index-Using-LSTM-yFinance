@@ -1,5 +1,11 @@
 # Predicting-Stock-Market-Index-Using-LSTM-yFinance
+Pls install program below for first step:
+1. pip install numpy
+2. pip install matplotlib
+3. pip install yfinance
+4. pip install pandas
 
+# Start with improt program<br>
 import pandas as pd <br>
 import numpy as np <br>
 import matplotlib.pyplot as plt <br>
