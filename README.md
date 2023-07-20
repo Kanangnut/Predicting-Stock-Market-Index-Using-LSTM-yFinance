@@ -1,7 +1,7 @@
 # Predicting-Stock-Market-Index-Using-LSTM-yFinance
 This project run the program by TSLA stock from 2010-2023
 
-Pls install program below for first step:
+first step pls install program:
 1. pip install numpy
 2. pip install matplotlib
 3. pip install yfinance
