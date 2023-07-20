@@ -22,7 +22,7 @@ from sklearn.preprocessing import MinMaxScaler<br>
 sc = MinMaxScaler(feature_range = (0, 1))<br>
 training_set_scaled = sc.fit_transform(training_set)<br><br>
 
-# Creating a data structure with 60 timesteps and 1 output <br>
+# Creating a data structure with 60 timesteps and 1 output <br> #You can adjust timesteps
 X_train = [] <br>
 y_train = [] <br>
 for i in range(60, 1258): <br>
