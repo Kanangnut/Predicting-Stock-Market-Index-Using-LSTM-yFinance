@@ -16,16 +16,19 @@ RNN is used in this code to predict stock prices. The program begins by importin
 Python 3.11.2 in Visual Studio Code
 
 <b>Visualising the results:</b><br>
-The model can predict the trend of the actual stock prices quite closely. The accuracy of the model can be enhanced by training with more data and increasing the LSTM layers.
+The model can predict the trend of the actual stock prices quite closely. 
 
-<b>The comparison of training:</b><br>
+
+
+<b>Observation and Conclusion:</b><br>
+Comparison of training:<br>
 <b>1006 dataset</b><br> 
 ![image](https://github.com/Kanangnut/Predicting-Stock-Using-LSTM-Neural-networks-yFinance/assets/130201193/d46328ff-ae93-4b8f-9aaf-f49abfb602af)
 
 <b>3286 dataset</b><br> 
 ![image](https://github.com/Kanangnut/Predicting-Stock-Using-LSTM-Neural-networks-yFinance/assets/130201193/ec3628f8-4e5e-439d-a73a-2436c8d26b68)
 
-
+The accuracy of the model can be enhanced by training with more data and increasing the LSTM layers.
 
 
 
