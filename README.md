@@ -5,8 +5,8 @@ This project using TSLA stock from 2010 to 2023<br>
 The dataset is taken from yahoo website in CSV format.The dataset consists of Open, High, Low, Close, Adj Close Prices and Valume of Tesla Inc. <br>
 stocks from 29th Jun 2010 to 19th Junly 2023, all 3287 rows.<br>
 
-<b>Indicator:</b>
-Stock traders mainly use Open price for predicttion.
+<b>Indicator:</b><br>
+Stock traders mainly use Open price for prediction.
 
 <b>Processing and Model:</b><br>
 Long short-term memory(LSTM) network is a recurrent neural network(RNN), aimed to deal with the vanishing gradient problem present in traditional RNNs.
