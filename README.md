@@ -1,4 +1,4 @@
-<b>Stock Price Prediction of Tesla Inc Stock by Long Short-Term Memory(LSTM), Recurrent Neural Network(RNN)</b><br>
+<b>Stock Price Prediction of Tesla Inc Stock by Long Short-Term Memory (LSTM), Recurrent Neural Network (RNN)</b><br>
 This project using TSLA stock from 2010 to 2023<br>
 
 <b>Dataset:</b><br>
