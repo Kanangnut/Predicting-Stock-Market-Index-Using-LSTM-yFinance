@@ -1,5 +1,3 @@
-# Predicting-Stock-Market-Index-Using-LSTM-yFinance
-
 <b>Stock Price Prediction of Tesla Inc Stock using Long Short-Term Memory(LSTM), Recurrent Neural Network(RNN)</b><br>
 
 
