@@ -1,5 +1,5 @@
 <b>Stock Price Prediction of Tesla Inc Stock by Long Short-Term Memory(LSTM), Recurrent Neural Network(RNN)</b><br>
-This project using TSLA stock from 2010 to 2023<br><br>
+This project using TSLA stock from 2010 to 2023<br>
 
 Dataset:<br>
 The dataset is taken from yahoo website in CSV format.The dataset consists of Open, High, Low, Close, Adj Close Prices and Valume of Tesla Inc. <br>
