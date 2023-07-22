@@ -1,4 +1,25 @@
 # Predicting-Stock-Market-Index-Using-LSTM-yFinance
+
+<b>Stock Price Prediction of Apple Inc. Using Recurrent Neural Network</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Codind explanation:
 This project run the program by TSLA stock from 2010 to 2023
 
 first step pls install program:
