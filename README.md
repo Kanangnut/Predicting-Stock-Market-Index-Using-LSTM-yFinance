@@ -1,6 +1,7 @@
 # Predicting-Stock-Market-Index-Using-LSTM-yFinance
 
-<b>Stock Price Prediction of Apple Inc. Using Recurrent Neural Network</b>
+<b>Stock Price Prediction of Apple Inc Stock using Long Short-Term Memory(LSTM), Recurrent Neural Network(RNN)</b><br>
+
 
 
 
