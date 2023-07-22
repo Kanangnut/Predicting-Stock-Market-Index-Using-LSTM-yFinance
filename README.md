@@ -17,7 +17,8 @@ Python 3.11.2 in Visual Studio Code
 
 <b>Visualising the results:</b>
 
-![image](https://github.com/Kanangnut/Predicting-Stock-Market-Index-Using-LSTM-yFinance/assets/130201193/1dd05caa-a902-4a0c-9cfe-2e2adac9fcf8)
+![image](https://github.com/Kanangnut/Predicting-Stock-Using-LSTM-Neural-networks-yFinance/assets/130201193/ec3628f8-4e5e-439d-a73a-2436c8d26b68)
+
 
 
 
