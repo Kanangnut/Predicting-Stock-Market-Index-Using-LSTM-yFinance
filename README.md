@@ -2,7 +2,7 @@
 This project using TSLA stock from 2010 to 2023<br>
 
 <b>Dataset:</b><br>
-The dataset is taken from yahoo website in CSV format.The dataset consists of Open, High, Low, Close, Adj Close Prices and Valume of Tesla Inc. <br>
+The dataset is taken from yahoo website in CSV format.The dataset consists of Open, High, Low, Close, Adj Close Prices and Valume of Tesla Inc.
 stocks from 29th Jun 2010 to 19th Junly 2023, all 3286 rows.<br>
 
 <b>Indicator:</b><br>
