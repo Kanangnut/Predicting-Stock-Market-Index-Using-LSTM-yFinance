@@ -8,7 +8,7 @@ stocks from 29th Jun 2010 to 19th Junly 2023, all 3287 rows.<br>
 <b>Indicator:</b>
 Stock traders mainly use Open price for predicttion.
 
-<b>Processing and Model:</b>
+<b>Processing and Model:</b><br>
 Long short-term memory(LSTM) network is a recurrent neural network(RNN), aimed to deal with the vanishing gradient problem present in traditional RNNs.
 RNN is used in this code to predict stock prices. The program begins by importing the training set from a CSV file, specifically the 'TSLA.CSV'. Then subjected to feature scaling using the MinMaxScaler from sklearn preprocessing to normalize the data and improve performance of the network. Then creating sequences with 60 timesteps, it represents past stock prices and their corresponding output, which is the next stock price.Then Keras is used to build the RNN model with four LSTM layers stacked to runing the price stock data.
 
