@@ -19,7 +19,7 @@ Python 3.11.2 in Visual Studio Code
 The model can predict the trend of the actual stock prices quite closely. 
 
 <b>Observation and Conclusion:</b><br>
-From comparison of training result the accuracy of the model can be enhanced by training with more data and increasing the LSTM layers.<br><br>
+From comparison of training result the accuracy of the model can be enhanced by training with more data and increasing the LSTM layers at 60 timesteps.<br><br>
 Result of 1006 dataset<br> 
 ![image](https://github.com/Kanangnut/Predicting-Stock-Using-LSTM-Neural-networks-yFinance/assets/130201193/d46328ff-ae93-4b8f-9aaf-f49abfb602af)
 
