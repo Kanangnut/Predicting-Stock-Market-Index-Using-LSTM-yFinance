@@ -24,7 +24,7 @@ Result of 1006 dataset.<br>
 
 
 Result of 3286 dataset.<br> 
-![image](https://github.com/Kanangnut/Predicting-Stock-Using-LSTM-RNN-yFinance/assets/130201193/017116a9-1a8f-45f9-90d0-2e5ece8e0083)
+
 
 
 
