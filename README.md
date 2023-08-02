@@ -21,6 +21,7 @@ The model can predict the trend of the actual stock prices quite closely.
 <b>Observation and Conclusion:</b><br>
 From comparison of training result the accuracy of the model can be enhanced by training with more data and increasing the LSTM layers at 60 timesteps.<br><br>
 Result of 1006 dataset.<br> 
+![image](https://github.com/Kanangnut/Predicting-Stock-Using-LSTM-RNN-yFinance/assets/130201193/ba971d1b-74db-49ab-88a7-b9b2e97d232e)
 
 
 Result of 3286 dataset.<br> 
